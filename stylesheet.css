@@ -25,10 +25,11 @@ span{
     }
 img{
     display:block;
-margin-right: 2%;
+margin-right:0;
+    margin-bottom:0;
 float:right;
 object-position: right;
-color:hsl(277, 64%, 61%);
+background-color:hsl(277, 64%, 61%);
 width:50%;
 height: 100%;
 }
